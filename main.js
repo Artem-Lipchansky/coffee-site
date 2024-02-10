@@ -17,10 +17,10 @@
 // document.body.style.backgroundColor = color;
 
 
-for (let i = 10; i >= 0; i -= 3) {
-    console.log(i);
-}
+// for (let i = 10; i >= 0; i -= 3) {
+//     console.log(i);
+// }
 
-console.log("bgbtb");
+// console.log("bgbtb");
 
 
